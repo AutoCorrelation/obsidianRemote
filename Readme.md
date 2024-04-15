@@ -1,2 +1,9 @@
 ##Welcome obsidian
-This is my obsidian Remote!
+```
+//Test code
+int main(){
+	printf("Hello, Obsidian!");
+	return 0;
+}
+```
+``
