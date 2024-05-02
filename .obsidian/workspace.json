@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab 1 Memo.md",
+                "file": "3-1/Lab 1 Memo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42d67f1f026ea744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea/Report Template for good Report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b579442f3a6d844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea/Information Architecture(Avionics).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab 1 Memo.md",
+                "file": "Idea/Information Architecture(Avionics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab 1 Memo.md",
+                "file": "Idea/Information Architecture(Avionics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab 1 Memo.md"
+                "file": "Idea/Information Architecture(Avionics).md"
               }
             }
           }
@@ -146,16 +171,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f7447ee74ea5c0d0",
+  "active": "5b579442f3a6d844",
   "lastOpenFiles": [
-    "상상기업.md",
-    "AutoCorrelation Fourier Transform.md",
-    "Report Template for good Report.md",
-    "Engineering Projects Idea from here.md",
-    "Lab 1 Memo.md",
-    "gpt prompt.md",
-    "photo/autocorrelationFourier.png",
+    "3-1/Lab 1 Memo.md",
+    "Idea/Information Architecture(Avionics).md",
+    "무제 폴더",
+    "Idea",
+    "Idea/Report Template for good Report.md",
+    "Idea/gpt prompt.md",
+    "Idea/Engineering Projects Idea from here.md",
+    "3-1",
     "Readme.md",
+    "3-1/AutoCorrelation Fourier Transform.md",
+    "상상기업.md",
+    "photo/autocorrelationFourier.png",
     "photo"
   ]
 }
