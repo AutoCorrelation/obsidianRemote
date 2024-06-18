@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-1/Test.md",
+                "file": "power setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-1/Test.md",
+                "file": "power setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-1/Test.md",
+                "file": "power setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-1/Test.md"
+                "file": "power setting.md"
               }
             }
           }
@@ -161,20 +161,22 @@
   },
   "active": "05afa43ff5bd7ff8",
   "lastOpenFiles": [
-    "3-1/kmooc 활동 소감.md",
-    "3-1/Test.md",
-    "3-1/AutoCorrelation Fourier Transform.md",
     "Idea/Report Template for good Report.md",
-    "Idea/Engineering Projects Idea from here.md",
-    "Idea/Lab Searching.md",
     "Idea/gpt prompt.md",
+    "Idea/Lab Searching.md",
+    "3-1/AutoCorrelation Fourier Transform.md",
+    "3-1/kmooc 활동 소감.md",
+    "3-1/공부 일지.md",
+    "Idea/Engineering Projects Idea from here.md",
     "상상기업.md",
+    "photo/autocorrelationFourier.png",
     "Readme.md",
+    "power setting.md",
+    "무제 파일.canvas",
     "Idea/Information Architecture(Avionics).md",
     "무제 폴더",
     "Idea",
     "3-1",
-    "photo/autocorrelationFourier.png",
     "photo"
   ]
 }
