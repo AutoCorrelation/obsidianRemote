@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "power setting.md",
+                "file": "상상기업.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e341a74ca498c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idea/Report Template for good Report.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62bc66cf2918be56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "공설 뭐하지.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "power setting.md",
+                "file": "공설 뭐하지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "power setting.md",
+                "file": "공설 뭐하지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "power setting.md"
+                "file": "공설 뭐하지.md"
               }
             }
           }
@@ -159,19 +183,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "05afa43ff5bd7ff8",
+  "active": "62bc66cf2918be56",
   "lastOpenFiles": [
     "Idea/Report Template for good Report.md",
-    "Idea/gpt prompt.md",
+    "공설 뭐하지.md",
     "Idea/Lab Searching.md",
+    "Idea/gpt prompt.md",
+    "Idea/Engineering Projects Idea from here.md",
+    "Readme.md",
+    "Contact Mail.md",
+    "상상기업.md",
+    "Wi-fi.md",
+    "photo/누적성적.png",
+    "photo/autocorrelationFourier.png",
+    "photo/Pasted image 20240618112815.png",
     "3-1/AutoCorrelation Fourier Transform.md",
     "3-1/kmooc 활동 소감.md",
     "3-1/공부 일지.md",
-    "Idea/Engineering Projects Idea from here.md",
-    "상상기업.md",
-    "photo/autocorrelationFourier.png",
-    "Readme.md",
-    "power setting.md",
     "무제 파일.canvas",
     "Idea/Information Architecture(Avionics).md",
     "무제 폴더",
