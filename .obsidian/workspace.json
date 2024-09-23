@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공설 뭐하지.md",
+                "file": "상상기업.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36128c88dc87a6b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공설 뭐하지.md",
+                "file": "Mate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공설 뭐하지.md",
+                "file": "Mate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공설 뭐하지.md"
+                "file": "Mate.md"
               }
             }
           }
@@ -183,17 +195,18 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "62bc66cf2918be56",
+  "active": "36128c88dc87a6b9",
   "lastOpenFiles": [
-    "Idea/Report Template for good Report.md",
+    "상상기업.md",
+    "Mate.md",
+    "Contact Mail.md",
+    "Wi-fi.md",
     "공설 뭐하지.md",
+    "Readme.md",
+    "Idea/Report Template for good Report.md",
     "Idea/Lab Searching.md",
     "Idea/gpt prompt.md",
     "Idea/Engineering Projects Idea from here.md",
-    "Readme.md",
-    "Contact Mail.md",
-    "상상기업.md",
-    "Wi-fi.md",
     "photo/누적성적.png",
     "photo/autocorrelationFourier.png",
     "photo/Pasted image 20240618112815.png",
