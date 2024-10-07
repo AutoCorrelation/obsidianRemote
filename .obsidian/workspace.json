@@ -8,67 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a15dbf37592d277a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-1/kmooc 활동 소감.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05afa43ff5bd7ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "상상기업.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e341a74ca498c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Idea/Report Template for good Report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62bc66cf2918be56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "상상기업.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "36128c88dc87a6b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mate.md",
+                "file": "Mate/Mate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0afb8282d44f1c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mate/참석자.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5
   },
   "right": {
     "id": "1b2c07c68e56eedb",
@@ -134,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mate.md",
+                "file": "Mate/Mate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mate.md",
+                "file": "Mate/Mate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mate.md"
+                "file": "Mate/Mate.md"
               }
             }
           }
@@ -197,11 +160,14 @@
   },
   "active": "36128c88dc87a6b9",
   "lastOpenFiles": [
+    "Mate/참석자.md",
+    "Mate/OT - 1 week.md",
+    "Mate/Mate.md",
+    "공설 뭐하지.md",
+    "Mate",
     "상상기업.md",
-    "Mate.md",
     "Contact Mail.md",
     "Wi-fi.md",
-    "공설 뭐하지.md",
     "Readme.md",
     "Idea/Report Template for good Report.md",
     "Idea/Lab Searching.md",
@@ -215,7 +181,6 @@
     "3-1/공부 일지.md",
     "무제 파일.canvas",
     "Idea/Information Architecture(Avionics).md",
-    "무제 폴더",
     "Idea",
     "3-1",
     "photo"
